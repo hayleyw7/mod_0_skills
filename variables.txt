@@ -1,0 +1,9 @@
+var famousPerson = "Bernie Sanders"
+var isActive = true
+var famousPerson = "Britney Spears"
+num3 = 3
+num9 = 9
+var sum = num3 + num9
+var animals = ["rabbit", "dog", "cat"]
+animals.shift()
+console.log(`${famousPerson.length}`)
