@@ -1,6 +1,6 @@
 var famousPerson = "Bernie Sanders"
 var isActive = true
-var famousPerson = "Britney Spears"
+famousPerson = "Britney Spears"
 num3 = 3
 num9 = 9
 var sum = num3 + num9
