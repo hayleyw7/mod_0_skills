@@ -1,0 +1,14 @@
+instance physicalEducation
+
+Attributes
+hoursLong = 1.5
+isFull = false
+teacher = "Joe Smith"
+students = ["Mike", "Sara", "Chris", "Jess"]
+
+Methods
+
+increaseLength: hoursLong = 2
+fillClass: isFull = true
+changeTeacher: teacher = "Sara Wilson"
+updateStudents: students = ["Mike", "Sara", "Chris", "Jess", "Carl"]
